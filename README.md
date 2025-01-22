@@ -1,0 +1,2 @@
+# edunet_crop_and_fertilizer_rs
+edunet_crop_and_fertilizers_rs
