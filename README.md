@@ -1,4 +1,6 @@
 # edunet_crop_and_fertilizers_rs
+Link to google colab file: https://colab.research.google.com/drive/1ZqYkJQn6pzeBjP6Eewr05fq6QJmJujDT
+
 A project focused on crop recommendation and fertilizer management for better agricultural yields.
 # Crop Recommendation Project
 
@@ -10,6 +12,8 @@ This project provides a crop recommendation system that analyzes environmental a
 - **Value Count Analysis**: Allows checking the value counts of columns.
 - **Dynamic File Handling**: Supports loading data from CSV, Excel, and JSON formats.
 - **Logging**: Tracks important actions and errors in the analysis.
+
+
 
 ## Installation
 
